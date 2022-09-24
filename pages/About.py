@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-os.chdir('D:/Moaaz/Programming/Epsilon_Data_Science_Diploma/17_Streamlit/Streamlit_Demo/Pages')
+#os.chdir('D:/Moaaz/Programming/Epsilon_Data_Science_Diploma/17_Streamlit/Streamlit_Demo/Pages')
 
 st.title('About')
 
