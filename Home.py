@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 
-os.chdir('D:/Moaaz/Programming/Epsilon_Data_Science_Diploma/17_Streamlit/Streamlit_Demo')
+#os.chdir('D:/Moaaz/Programming/Epsilon_Data_Science_Diploma/17_Streamlit/Streamlit_Demo')
 
 st.title('Hello World')
 
